@@ -1,4 +1,4 @@
-# 🧬 Project Symbiont: The "David vs Goliath" AI Agent
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medranobellitab-wq/Symbiont-RAG-Agent/blob/main/Symbiont_Agent_MVP.ipynb) # 🧬 Project Symbiont: The "David vs Goliath" AI Agent
 
 ### 🇷🇺 Manifesto (Russian)
 Этот проект — доказательство того, что для участия в гонке ИИ не нужны миллиардные бюджеты и дата-центры размером с город.
